@@ -1,4 +1,4 @@
-# CodeAlpha_DiseasePrediction 🩺
+# Diabetes-Disease-Prediction 🩺
 
 **Machine Learning Internship — CodeAlpha | Task 4: Disease Prediction from Medical Data**
 
