@@ -1,0 +1,31 @@
+{
+  "best_model_name": "Gradient Boosting",
+  "feature_names": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "metrics": {
+    "Accuracy": 0.7597402597402597,
+    "Precision": 0.6666666666666666,
+    "Recall": 0.6296296296296297,
+    "F1-Score": 0.6476190476190476,
+    "ROC-AUC": 0.8259259259259258,
+    "CV ROC-AUC": 0.8031076965669989
+  },
+  "feature_medians": {
+    "Pregnancies": 3.0,
+    "Glucose": 117.0,
+    "BloodPressure": 72.0,
+    "SkinThickness": 29.0,
+    "Insulin": 125.0,
+    "BMI": 32.3,
+    "DiabetesPedigreeFunction": 0.3725,
+    "Age": 29.0
+  }
+}
